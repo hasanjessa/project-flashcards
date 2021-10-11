@@ -11,3 +11,4 @@
 ### Languages Used
 * JavaScript
 * NodeJS
+* HTML
